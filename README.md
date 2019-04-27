@@ -17,7 +17,9 @@ pip install -r requirements.txt
 ## Dataset
 Create folder /data/ and store raw text format dataset in it.
 The exchange dataset is already present in the data folder.
-## For other datasets advisable to run on GPU or colab version:
+```
+For other datasets advisable to run on GPU or colab version
+```
 ### Electricity consumption
 
 
