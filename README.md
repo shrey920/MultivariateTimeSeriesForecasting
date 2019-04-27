@@ -18,7 +18,7 @@ pip install -r requirements.txt
 Create folder /data/ and store raw text format dataset in it.
 The exchange dataset is already present in the data folder.
 ```
-For other datasets advisable to run on GPU or colab version
+For other datasets it is advisable to run on GPU or colab version
 ```
 ### Electricity consumption
 
@@ -31,7 +31,7 @@ The raw data is in http://pems.dot.ca.gov. The data in this repo is a collection
 
 ### Solar Energy
 
-The raw data is in http://www.nrel.gov/grid/solar-power-data.html : It contains the solar power production records in the year of 2006, which is sampled every 10 minutes from 137 PV plants in Alabama State.  
+The raw data is in http://www.nrel.gov/grid/solar-power-data.html : It contains the solar power production records in the year of 2006, which is sampled every 10 minutes from 137 PV plants in Alabama State.
 
 ## Running the Local Version
 
@@ -41,7 +41,7 @@ Run the LSTNet.ipynb file on jupyter notebook.
 
 The code needs a gpu environment for fast execution for datasets of elecrticity, solar and traffic.
 
-Upload the the file MultivariateTimeSeriesForecasting(colab_version).ipynb on a new cuda10 enabled colab project.
+Upload the file MultivariateTimeSeriesForecasting(colab_version).ipynb on a new cuda10 enabled colab project.
 Add this [link](https://drive.google.com/open?id=1OHtGDWiBhkeFqU6sar6Op7pyykkVhgUo) to your drive for retrieving the datasets.
 
 
